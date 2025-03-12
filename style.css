@@ -1,0 +1,53 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+.sec1{
+	padding-top:20px;
+	
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	background-color:rgb(242, 109, 19);
+	text-align:center;
+	padding:20px;
+}
+
+h1,p{
+	text-align:center;
+	color:white;
+	text-transform:capitalize;
+}
+
+.row{
+	display:flex;
+	justify-content:center;
+	margin-top:20px;
+}
+
+.col1{
+	width:200px;
+}
+
+.image{
+	width:200px;
+	height:auto;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.col2{
+	width:200px;
+}
+	
+.blur {
+    filter: blur(5px);
+}
