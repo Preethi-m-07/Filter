@@ -4,6 +4,6 @@
 
 </head>
 <body>
- <p>Made some filter to the image using html and css . The filter property defines visual effects (like blur and saturation) to an element (often <img>). We can appply blur effect , shadow effect to the image , adjust the contrast of the image , Brightness of the image also convert the image into grayscale.</p>
+ <p>Made some filter to the image using html and css . The filter property defines visual effects (like blur and saturation) to an element (often <img>). We can appply blur effect , shadow effect to the image , adjust the contrast of the image , Brightness of the image also convert the image into grayscale. Apply a hue rotation on the image and set the opacity level for the image,  saturate the image. </p>
 </body>
 </html>
